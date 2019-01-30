@@ -3,7 +3,7 @@
 Uses VueJS&Vuex. Created with Vue-CLI.
 Running at http://impossible-side.surge.sh/
 
-#a Project setup
+### Project setup
 ```
 npm install
 ```
