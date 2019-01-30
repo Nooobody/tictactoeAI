@@ -1,6 +1,7 @@
 # Neural Network TicTacToe AI
 
 Uses VueJS&Vuex. Created with Vue-CLI.
+Running at http://impossible-side.surge.sh/
 
 #a Project setup
 ```
