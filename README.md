@@ -1,6 +1,8 @@
-# neuralnetworktest
+# Neural Network TicTacToe AI
 
-## Project setup
+Uses VueJS&Vuex. Created with Vue-CLI.
+
+#a Project setup
 ```
 npm install
 ```
